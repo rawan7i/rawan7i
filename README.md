@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Rawan  
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello World, I'm Rawan. Full-Stack Web Developer !" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 💻 **Full-Stack Web Developer**  
 🌸 Passionate about technology, coding, and continuous learning  

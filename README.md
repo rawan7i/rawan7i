@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Rawan  
 
-<!--
-**rawan7i/rawan7i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Web Developer**  
+🌸 Passionate about technology, coding, and continuous learning  
+## 🌟 About Me
+I love exploring new technologies and turning ideas into real projects.  
+Always curious, always learning 🚀 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)  
+
+### Back-End  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) 
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff)  
+
+### Databases  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=fff) 
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=fff)  

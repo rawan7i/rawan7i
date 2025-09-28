@@ -10,11 +10,9 @@
 <br> 
 
 ##  About Me 🌸   
-✨ I love exploring new technologies and turning ideas into real projects.  
+✨ Exploring new technologies and building practical web apps.  
 🚀 Always curious, always learning.  
-
-💡 I enjoy building **practical web applications** and experimenting with new tools.  
-🎯 My goal is to grow as a **Full-Stack Developer** and create projects that make an impact.  
+🎯 My goal is to grow as a **Full-Stack Developer** and create projects that make an impact.
 
 
 ## 🛠️ Languages & Tools

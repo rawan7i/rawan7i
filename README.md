@@ -1,11 +1,10 @@
+<div align="center"> 
+<img src="https://i.imgur.com/tlV10a9.gif" alt="RAWAN H" width="700" />
+</div>
 
-<h1> Hello World 👋, I'm <span style="color:pink">Rawan</span> </h1> 
+ <h3 align="center"> 👩‍💻 Welcome to my GitHub profile! </h3>
 
-<h3 align="center"> Full-Stack Web Developer 💻 </h3>
-
-
-
-👩‍💻 **Welcome to my GitHub profile!**  
+ </br>
 🌸 Passionate about technology, coding, and continuous learning  
 
 

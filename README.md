@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://i.imgur.com/tlV10a9.gif" alt="RAWAN H" style="max-width: 700px; width: 100%; height: auto;" />
+  <img src="https://i.imgur.com/tlV10a9.gif" alt="Welcome" style="max-width: 700px; width: 100%; height: auto;" />
 </div>
 
 <br>
@@ -27,13 +27,16 @@
 
 ![PHP](https://img.shields.io/badge/PHP-000000?logo=php&logoColor=777BB4) 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?logo=codeigniter&logoColor=EF4223) 
+![Composer](https://img.shields.io/badge/Composer-000000?logo=composer&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-000000?logo=java&logoColor=007396)  
 ![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05032) 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=FFFFFF)
+![Brave](https://img.shields.io/badge/Brave-000000?style=flat-square&logo=brave&logoColor=FB542B)
 
-![Oracle](https://img.shields.io/badge/Oracle-000000?logo=oracle&logoColor=F80000) 
-![SQL](https://img.shields.io/badge/SQL-000000?logo=database&logoColor=4479A1) 
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-000000?logo=phpmyadmin&logoColor=6C78AF)  
+![Oracle](https://img.shields.io/badge/Oracle-000000?logo=oracle)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-000000?style=flat&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=4479A1)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-000000?logo=phpmyadmin&logoColor=6C78AF)
 
 
 ---

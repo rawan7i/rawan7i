@@ -31,6 +31,7 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?logo=codeigniter&logoColor=EF4223) 
 ![Java](https://img.shields.io/badge/Java-000000?logo=java&logoColor=007396)  
 ![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05032) 
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=FFFFFF)
 
 ![Oracle](https://img.shields.io/badge/Oracle-000000?logo=oracle&logoColor=F80000) 
 ![SQL](https://img.shields.io/badge/SQL-000000?logo=database&logoColor=4479A1) 

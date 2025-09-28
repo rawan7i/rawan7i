@@ -9,7 +9,7 @@
 ---
 <br> 
 
-##  About Me 🌟  
+##  About Me 🌸  
 ✨ I love exploring new technologies and turning ideas into real projects.  
 🚀 Always curious, always learning.  
 

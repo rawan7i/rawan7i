@@ -2,22 +2,19 @@
   <img src="https://i.imgur.com/tlV10a9.gif" alt="RAWAN H" style="max-width: 700px; width: 100%; height: auto;" />
 </div>
 
+<br>
 
+<p align="center">🌸 Passionate about technology, coding, and continuous learning </p>
 
- <h3 align="center"> 👩‍💻 Welcome to my GitHub profile! </h3>
+---
+<br> 
 
- <br> <br>
-🌸 Passionate about technology, coding, and continuous learning  
-
-
-
-## 🌟 About Me
+##  About Me 🌟  
 ✨ I love exploring new technologies and turning ideas into real projects.  
 🚀 Always curious, always learning.  
 
 💡 I enjoy building **practical web applications** and experimenting with new tools.  
 🎯 My goal is to grow as a **Full-Stack Developer** and create projects that make an impact.  
-
 
 
 ## 🛠️ Languages & Tools

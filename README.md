@@ -4,7 +4,7 @@
 
  <h3 align="center"> 👩‍💻 Welcome to my GitHub profile! </h3>
 
- </br>
+ <br> <br>
 🌸 Passionate about technology, coding, and continuous learning  
 
 
@@ -42,7 +42,9 @@
 ![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05032)  
 
 ---
+![Rawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawan7i&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rawan7i&layout=compact&theme=tokyonight)
 
 
 ## 📫 Connect with Me

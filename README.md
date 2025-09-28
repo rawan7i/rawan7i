@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">🌸 Passionate about technology, coding, and continuous learning </p>
+<p align="center"> Passionate about technology, coding, and continuous learning </p>
 
 ---
 <br> 

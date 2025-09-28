@@ -9,7 +9,7 @@
 ---
 <br> 
 
-##  About Me 🌸  
+##  About Me 🌸   
 ✨ I love exploring new technologies and turning ideas into real projects.  
 🚀 Always curious, always learning.  
 
@@ -39,7 +39,7 @@
 
 ---
 ## 📫 Connect with Me ##
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-linkedin) [![Gmail](https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=EA4335)](mailto:yourmail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rawan-albaqami-740538224/) [![Gmail](https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=EA4335)](mailto:RawanAlBaqami@outlook.com)  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rawan7i&show_icons=true&theme=tokyonight" alt="Rawan's GitHub stats" height="165"/>

@@ -1,6 +1,7 @@
 <div align="center"> 
-<img src="https://i.imgur.com/tlV10a9.gif" alt="RAWAN H" width="700" />
+  <img src="https://i.imgur.com/tlV10a9.gif" alt="RAWAN H" style="max-width: 100%; height: auto;" />
 </div>
+
 
  <h3 align="center"> 👩‍💻 Welcome to my GitHub profile! </h3>
 
